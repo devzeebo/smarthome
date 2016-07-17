@@ -1,0 +1,16 @@
+{
+	"compileOnSave": true,
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": false,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"sourceMap": true
+	},
+	"filesGlob": [
+		"/grails-app/assets/javascripts"
+	],
+	"exclude": [
+		"/grails-app/assets/javascripts/lib"
+	]
+}

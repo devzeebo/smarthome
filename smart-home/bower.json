@@ -1,0 +1,27 @@
+{
+  "name": "smart-home",
+  "homepage": "https://github.com/zeebo404/smarthome",
+  "authors": [
+    "Eric Siebeneich <eric.siebeneich@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7"
+  },
+  "install": {
+    "path": {
+      "js": "/grails-app/assets/javascripts/lib",
+      "css": "/grails-app/assets/stylesheets/lib"
+    }
+  }
+}
